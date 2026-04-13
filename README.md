@@ -1,4 +1,4 @@
-House Prices - Advanced Regression Techniques
+# House Prices - Advanced Regression Techniques
 
 კონკურსის აღწერა: კონკურსის მიზანია ისეთი მოდელის ტრენინგი, რომელიც მოცემული feature-ების საშუალებით შეძლებს სახლების ფასების პროგნოზირებას.
 
